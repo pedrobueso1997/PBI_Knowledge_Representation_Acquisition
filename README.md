@@ -1,1 +1,3 @@
 # PBI_Knowledge_Representation_Acquisition
+
+Final project for my Knowledge Representation and Acquisition subject in the Computational Biology Master (Polytechnic University of Madrid)
